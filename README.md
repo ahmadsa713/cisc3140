@@ -1,7 +1,7 @@
 # cisc3140
 made for cisc 3140
 
-for assiment6 there are
+for assiment6 there are a few files
 
 // This is the write up portion of the assiment in markdown
   hw6assiment.md
