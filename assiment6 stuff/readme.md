@@ -15,3 +15,5 @@ logfile.txt
 // This is the summerized version of logfile which only shows
 max,min,average and import and nothing extra queriesfortable.md
 queriesfortable.txt
+
+//pandoc command is the extra credit on which commands I used to conver the documents to markdown
