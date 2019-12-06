@@ -1,0 +1,26 @@
+// pandoc commands that were used
+
+C:\Users\Ahmad>cd Desktop
+
+C:\Users\Ahmad\Desktop>pandoc testing.txt -s -o tc.md
+
+C:\Users\Ahmad\Desktop>pandoc logfile.txt -s -o logfile.md
+
+C:\Users\Ahmad\Desktop>pandoc queriesfortable -s -o queriesfortable.md
+[WARNING] Could not deduce format from file extension
+  Defaulting to markdown
+pandoc: queriesfortable: openBinaryFile: does not exist (No such file or directory)
+
+C:\Users\Ahmad\Desktop>pandoc queriesfortable.txt -s -o queriesfortable.md
+
+C:\Users\Ahmad\Desktop>hw6assiment.docx -s -o hw6assiment.md
+
+C:\Users\Ahmad\Desktop>hw6assiment.docx -s -o hw6assiment.md
+
+C:\Users\Ahmad\Desktop>hw6assiment.txt -s -o hw6assiment.md
+
+C:\Users\Ahmad\Desktop>pandoc hw6assiment.docx -s -o hw6assiment.md
+
+C:\Users\Ahmad\Desktop>pandoc readme.txt -s -o readme.md
+
+C:\Users\Ahmad\Desktop>
