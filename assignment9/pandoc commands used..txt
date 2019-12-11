@@ -1,0 +1,10 @@
+// pandoc command to convert to markdown
+
+Microsoft Windows [Version 10.0.18362.476]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Ahmad>cd desktop
+
+C:\Users\Ahmad\Desktop>cd assignment9
+
+C:\Users\Ahmad\Desktop\assignment10>pandoc assignment9.docx -s -o assignment9.md
